@@ -1,0 +1,4 @@
+210623	/phengs/hpc_storage/home/dbibby/FASTQs/HSV/210623_WGS
+210311	/phengs/hpc_storage/home/dbibby/FASTQs/HSV/210311_NGS
+201214	/phengs/hpc_storage/home/dbibby/FASTQs/HSV/201214_NGS
+180221	/phengs/hpc_storage/home/dbibby/FASTQs/HSV/180221_NGS/test
